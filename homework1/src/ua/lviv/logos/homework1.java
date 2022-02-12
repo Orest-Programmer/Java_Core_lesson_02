@@ -57,7 +57,7 @@ public class homework1 {
 		System.out.println("Мінімальне значення масиву : " + min);
 		System.out.println("Максимальне значення масиву : " + max);
 		
-		//first
+		//first commit
 	}
 
 }
