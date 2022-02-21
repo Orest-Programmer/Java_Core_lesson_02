@@ -1,9 +1,8 @@
-package ua.lviv.lgs;
+package ua.lviv.lgs.hm1;
 
-public class RobotCoocker extends Robot {
-@Override
+public class RobotCoocker extends Robot{
+	@Override
 	public void work() {
-		System.out.println("я RobotCoocker Ц € просто готую");
+		System.out.println("я Robot Ц € готую");
 	}
-
 }

@@ -1,4 +1,4 @@
-package ua.lviv.lgs;
+package ua.lviv.lgs.hm1;
 
 public class Robot {
 	public void work() {

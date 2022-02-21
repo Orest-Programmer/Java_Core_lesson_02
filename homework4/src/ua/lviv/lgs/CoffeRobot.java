@@ -1,9 +1,9 @@
-package ua.lviv.lgs;
+package ua.lviv.lgs.hm1;
 
-public class CoffeRobot extends Robot {
-@Override
+
+public class CoffeRobot extends Robot{
+	@Override
 	public void work() {
-		System.out.println("я CoffeRobot Ц € варю каву");
+		System.out.println("я Robot Ц € варю каву");
 	}
-	
 }
