@@ -14,15 +14,15 @@ public class Main {
 
 			switch (sc.nextInt()) {
 			case 1: {
-				f.createRepresentative();
+				r.createRepresentative();
 				break;
 			}
 			case 2: {
-				f.Display();
+				r.Display();
 				break;
 			}
 			case 3: {
-				f.removeDeputy();
+				r.removeDeputy();
 				break;
 			}
 			case 4: {
